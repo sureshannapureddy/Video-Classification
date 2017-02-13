@@ -12,5 +12,5 @@ By the time we’re done today, we should be able to classify what we see on our
 ## Method
 We’re going to collect data for offline training with a Raspberry Pi and a PiCamera. We’ll point the camera at a CCTV and record 10 frames per second, or more specifically, save 10 jpegs every second, which will comprise our “video”.
 
-Code for capturing our images:
+Code for capturing our images: Video-Classification/stream_images.py
 
